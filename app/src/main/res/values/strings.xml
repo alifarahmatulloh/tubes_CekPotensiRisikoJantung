@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">tubes_CekPotensiRisikoJantung</string>
+    <string name="app_name">CardiaCare</string>
     <string name="title_activity_login">Sign in</string>
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
@@ -9,4 +9,31 @@
     <string name="invalid_username">Not a valid username</string>
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
+    <string name="form_titleJantung">Cek Potensi Risiko Penyakit Jantung</string>
+    <string name="form_textJantung">Tanggal</string>
+    <string name="form_dateJantung">26 November 2019</string>
+    <string name="form_diabetesLabel">Apakah Anda Terkena Diabetes?</string>
+    <string name="diabetesYes">IYA</string>
+    <string name="diabetesNo">TIDAK</string>
+    <string name="form_kelaminLabel">Jenis Kelamin</string>
+    <string name="form_kelaminTextview">Jenis Kelamin</string>
+    <string name="form_usiaLabel">Usia</string>
+    <string name="form_tahunLabel">Tahun</string>
+    <string name="form_usiaTextview">0</string>
+    <string name="perokokYes">IYA</string>
+    <string name="perokokNo">TIDAK</string>
+    <string name="form_perokokLabel">Apakah anda Perokok?</string>
+    <string name="form_tensiLabel">Tekanan Darah</string>
+    <string name="form_tensiText">Masukkan tekanan darah anda</string>
+    <string name="form_kolesterolLabel">Jumlah Kolesterol</string>
+    <string-array name="labels_kolesterol">
+        <item>4 = 154,44 mg/dL</item>
+        <item>5 = 193,05 mg/dL</item>
+        <item>6 = 231,66 mg/dL</item>
+        <item>7 = 270,27 mg/dL</item>
+        <item>8 = 308,88 mg/dL</item>
+    </string-array>
+    <string name="form_hasilButton">Lihat Hasil</string>
+
+
 </resources>
