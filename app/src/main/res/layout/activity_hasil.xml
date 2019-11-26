@@ -43,10 +43,10 @@
                 android:textStyle="bold" />
 
             <TextView
-                android:id="@+id/form_dateJantung"
+                android:id="@+id/hasil_dateJantung"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/form_dateJantung"
+                android:text="@string/hasil_dateJantung"
                 android:textColor="#355C7D"
                 android:textSize="14dp"
                 android:textStyle="bold" />
@@ -68,7 +68,7 @@
         android:layout_below="@+id/hasil_LinearTitle"
         android:layout_marginLeft="80dp"
         android:layout_marginTop="100dp"
-        android:background="@drawable/shape_circle_green"
+
         android:orientation="vertical">
 
         <TextView
@@ -86,7 +86,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/hasil_tingkatTextview"
-            android:text="< 10%"
+            android:text="@string/hasil_tingkatTextview"
             android:textStyle="bold"
             android:textSize="50dp"
             android:layout_marginLeft="55dp"

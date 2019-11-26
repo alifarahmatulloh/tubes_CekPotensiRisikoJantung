@@ -38,6 +38,8 @@
     <string name="hasil_tingkatLabel">Tingkat Risiko</string>
     <string name="hasil_pesanTextview">Potensi risiko terkena penyakit jantung AMAN dalam kurun waktu 10 tahun. Terus jaga dan pelihara kesehatan agar hasil prediksi tidak berubah.</string>
     <string name="hasil_detailButton">DETAIL</string>
+    <string name="hasil_dateJantung">26 November 2019</string>
+    <string name="hasil_tingkatTextview"><![CDATA[< 10%]]></string>
 
 
 </resources>
